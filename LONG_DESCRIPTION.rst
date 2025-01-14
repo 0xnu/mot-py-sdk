@@ -93,7 +93,7 @@ This project is licensed under the `MIT License`_.
 Copyright
 ---------
 
-Copyright |copy| 2023 - 2024 `Finbarrs Oketunji`_.
+Copyright |copy| 2023 - 2025 `Finbarrs Oketunji`_.
 
 The MOT History API Python SDK is Licensed under the `Open Government Licence v3.0`_
 
